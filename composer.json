@@ -17,6 +17,7 @@
     "require": {
         "netgen/ezpublish-legacy-installer": "^2.2",
         "netgen/ezpublish-legacy": "dev-ibexa-support",
+        "mugoweb/ezpublish-legacy": "dev-master",
         "ibexa/core": "^4.6",
         "netgen/ibexa-xmltext-fieldtype": "^3.0",
         "netgen/richtext-datatype-bundle": "^2.0",
